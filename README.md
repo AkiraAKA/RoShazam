@@ -63,5 +63,3 @@ For any questions or suggestions, feel free to reach out:
 - **Instagram:** @travseralcharacter
 
 ---
-
-Feel free to use or adjust this README to best suit your project!
