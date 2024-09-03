@@ -1,4 +1,4 @@
-Here's the updated README with your contact information:
+RoShazam Music Script
 
 ---
 
